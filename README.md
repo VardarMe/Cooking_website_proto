@@ -1,4 +1,4 @@
-# fake_website
+# cooking website prototype
 
 Shoutout to the people providing free icons and images online
 
